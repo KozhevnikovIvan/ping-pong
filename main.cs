@@ -17,8 +17,7 @@ namespace Ping_Pong
 		int bally;
 		int ballspdx = 3;
 		int ballspdy = 3;
-		
-		//-------------------------------	
+			
 		public MainForm()
 		{
 			InitializeComponent();
