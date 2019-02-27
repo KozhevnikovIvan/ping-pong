@@ -3,14 +3,10 @@ using System.Windows.Forms;
 
 namespace Ping_Pong
 {
-	/// <summary>
-	/// Class with program entry point.
-	/// </summary>
+
 	internal sealed class Program
 	{
-		/// <summary>
-		/// Program entry point.
-		/// </summary>
+
 		[STAThread]
 		private static void Main(string[] args)
 		{
